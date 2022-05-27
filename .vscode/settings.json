@@ -5,6 +5,8 @@
         "lib/**/*.jar"
     ],
     "cSpell.words": [
-        "descricao"
+        "Conteudo",
+        "descricao",
+        "PADRAO"
     ]
 }
